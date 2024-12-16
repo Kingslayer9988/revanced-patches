@@ -16,7 +16,7 @@ pluginManagement {
 }
 
 plugins {
-    id("revanced-patches-gradle-plugin") version "1.0.0-dev.7"
+    id("app.revanced.patches") version "1.0.0-dev.7"
 }
 
 settings {
