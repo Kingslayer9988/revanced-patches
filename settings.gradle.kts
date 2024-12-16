@@ -16,11 +16,7 @@ pluginManagement {
 }
 
 plugins {
-<<<<<<< HEAD
     id("app.revanced.patches") version "1.0.0-dev.7"
-=======
-    id("app.revanced-patches") version "1.0.0-dev.7"
->>>>>>> c8c6b1c6a8fd5678aefc8ff7839780b08ee8083d
 }
 
 settings {
